@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GameSceneGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: GameSceneGroup
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fe10f86b8352eb743a1459238155e165
+  m_SerializeEntries:
+  - m_GUID: 3287a64f7d28c704ab64819eb7b1a289
+    m_Address: Assets/Prefabs/PlayerAppearances/SimpleSpaceshipAppearance.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 417a9f935517d934487adf6ba60b6299
+    m_Address: Assets/Prefabs/GreenProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57637101163b49c4b9e5a2598e49b68d
+    m_Address: Assets/Prefabs/PlayerAppearances/CustomSpaceship.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef859497dcb60634b99dc760d4c1c2dc
+    m_Address: Assets/Prefabs/RedProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc4ef517a814452429151261988994c0
+    m_Address: Assets/Prefabs/Asteroid.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 96735de7531141c449a285f21ac6436e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 098250a53888ad84f9dc849744244a25, type: 2}
+    - {fileID: 11400000, guid: 2449d75512a5efc47bf50a80c862ac13, type: 2}

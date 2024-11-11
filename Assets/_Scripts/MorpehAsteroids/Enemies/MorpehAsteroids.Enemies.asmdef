@@ -1,0 +1,22 @@
+{
+    "name": "MorpehAsteroids.Enemies",
+    "rootNamespace": "MorpehAsteroids.Enemies",
+    "references": [
+        "GUID:3377deebfb0acde45876d12c6e3d27cc",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:b10085d49c09b734aa989c880dd3defb",
+        "GUID:6c1f740a7b4d07c48b7f254a0848ad48",
+        "GUID:2a2c5d50987d4d04288cfd5745b6086d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

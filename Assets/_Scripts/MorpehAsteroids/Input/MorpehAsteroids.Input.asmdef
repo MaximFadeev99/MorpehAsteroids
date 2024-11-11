@@ -1,0 +1,21 @@
+{
+    "name": "MorpehAsteroids.Input",
+    "rootNamespace": "MorpehAsteroids.Input",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:3377deebfb0acde45876d12c6e3d27cc",
+        "GUID:c5c1317e6e60c8e47a8944d9b39337b8",
+        "GUID:6c1f740a7b4d07c48b7f254a0848ad48",
+        "GUID:2a2c5d50987d4d04288cfd5745b6086d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

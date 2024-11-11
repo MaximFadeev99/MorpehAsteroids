@@ -1,0 +1,17 @@
+{
+    "name": "MorpehAsteroids.MainPlayer.Movement",
+    "rootNamespace": "MorpehAsteroids.MainPlayer.Movement",
+    "references": [
+        "GUID:3377deebfb0acde45876d12c6e3d27cc",
+        "GUID:caacfe891e266614b9afce7d2fb9917f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
